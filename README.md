@@ -4,13 +4,13 @@ Hi ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-912
 GameDev and a Part-time WebDev
 ------------------------------
 
-Sophisticated digital nomad bouncing between Indie GameDev and Web Development
+Sophisticated digital nomad toggling between Indie GameDev and Web Development
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [ashfaqjani916@gmail.com](mailto:ashfaqjani916@gmail.com)
 * 🚀  I'm currently working on [CryptoQuest](http://github.com/ashfaqjani916/Crypto-Quest)
 * 🧠  I'm learning JavaScript and Golang
-* 🤝  I'm open to collaborating on Weird Projects integrating various domains
+* 🤝  I'm open to collaborating on Interesting Projects integrating various domains
 
 ### Skills
 
