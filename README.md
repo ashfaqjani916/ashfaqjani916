@@ -8,8 +8,8 @@ Sophisticated digital nomad toggling between Indie GameDev and Web Development
 
 * 🌍  I'm based in Hyderabad
 * ✉️  You can contact me at [ashfaqjani916@gmail.com](mailto:ashfaqjani916@gmail.com)
-* 🚀  I'm currently working on [Tidy Tasks](http://github.com/ashfaqjani916/task-tide)
-* 🧠  I'm learning DevOps and Advanced Backend
+* 🚀  I'm currently working on [Compass](http://github.com/ashfaqjani916/compass)
+* 🧠  I'm learning DevOps and Advanced Backend in GoLang
 * 🤝  I'm open to collaborating on Interesting Projects integrating various domains
 
 ### Skills
