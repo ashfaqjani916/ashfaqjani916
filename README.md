@@ -6,12 +6,12 @@ Full Stack Web Developer and Part-time GameDev
 
 Sophisticated digital nomad toggling between Indie GameDev and Web Development
 
-* I am currently a Software Engineer Intern at [Flam](https://flamapp.ai/)
-* 🌍  I'm based in Bengaluru
-* ✉️  You can contact me at [ashfaqjani916@gmail.com](mailto:ashfaqjani916@gmail.com)
-<!--* 🚀  I'm currently working on [Brewward](https://github.com/ashfaqjani916/Brewward) -->
-* 🧠  I'm learning DevOps and Advanced Backend in GoLang
+* 💼  I am currently a Software Engineer Intern at [Flam](https://flamapp.ai/)
+* 🌍  I'm based in Bengaluru
+* ✉️  You can contact me at [ashfaqjani916@gmail.com](mailto:ashfaqjani916@gmail.com)
+* * 🧠  I'm learning DevOps and Advanced Backend in GoLang
 * 🤝  I'm open to collaborating on Interesting Projects integrating various domains
+<!--* 🚀  I'm currently working on [Brewward](https://github.com/ashfaqjani916/Brewward) -->
 
 ### Skills
 
