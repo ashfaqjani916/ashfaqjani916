@@ -5,7 +5,7 @@
 
 A digital nomad building across web and game ecosystems — focused on scalable backend systems and interactive experiences.
 
----
+
 
 ## 🚀 About Me
 
@@ -15,7 +15,7 @@ A digital nomad building across web and game ecosystems — focused on scalable 
 - 🧠 Currently exploring **DevOps** and **advanced backend systems in Go**  
 - 🤝 Open to collaborating on **cross-domain and innovative projects**
 
----
+
 
 ## Skills
 
@@ -64,7 +64,7 @@ A digital nomad building across web and game ecosystems — focused on scalable 
   </a>
 </p>
 
----
+
 
 ## 🔗 Connect With Me
 
@@ -80,7 +80,7 @@ A digital nomad building across web and game ecosystems — focused on scalable 
   </a>
 </p>
 
----
+
 
 ## 📊 GitHub Stats
 
