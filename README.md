@@ -9,10 +9,11 @@ A digital nomad building across web and game ecosystems — focused on scalable 
 
 ## 🚀 About Me
 
-- 💼 Software Engineer Intern at [Flam](https://flamapp.ai/)
-- 🌍 Based in Bengaluru, India  
+- 💼 Backend Developer at [Flam](https://flamapp.ai/)
+- 🌍 Based in Bengaluru, India
+- [Portfolio](https://ashfaqjani.me)
 - ✉️ Reach me at: **ashfaqjani916@gmail.com**  
-- 🧠 Currently working on [myon](https://www.myon.life/)
+- 🧠 Currently working on [Brewwwards](https://brewwwards.ashfaqjani.me/)
 - 🤝 Open to collaborating on **cross-domain and innovative projects**
 
 
