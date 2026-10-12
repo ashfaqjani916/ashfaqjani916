@@ -11,7 +11,6 @@ A digital nomad building across web and game ecosystems — focused on scalable 
 
 - 💼 Backend Developer at [Flam](https://flamapp.ai/)
 - 🌍 Based in Bengaluru, India
-- [Portfolio](https://ashfaqjani.me)
 - ✉️ Reach me at: **ashfaqjani916@gmail.com**  
 - 🧠 Currently working on [Brewwwards](https://brewwwards.ashfaqjani.me/)
 - 🤝 Open to collaborating on **cross-domain and innovative projects**
